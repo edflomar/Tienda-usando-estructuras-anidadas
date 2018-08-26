@@ -57,6 +57,7 @@ void menu(){
 	cout<<"Bienvenido "<<endl;
 	cout<<"1.Agregar productos"<<endl;
 	cout<<"2.Ver productos disponibles"<<endl;
+	cout<<"3. Salir"<<endl;
 	cout<<"Ingresar la operacion que desea realizar: ";
 }
 
